@@ -138,3 +138,35 @@ mainSections = ["docs"]
     newsArticle = [] # NewsArticle sections
     blogPosting = ["blogs"] # BlogPosting sections
     product = [] # Product sections
+
+[[homepagelink]]
+  href = "/BEED/"
+  title = "BEED"
+  description = "Bachelor of Early Elementary Education"
+  target = "_blank"
+  class = "border-primary bg-primary bg-opacity-10"
+  rel = ""
+
+[[homepagelink]]
+  href = "/BSED/"
+  title = "BSED"
+  description = "Bachelor of Secondary Education"
+  target = "_blank"
+  class = "border-info bg-info bg-opacity-10"
+  rel = ""
+
+[[homepagelink]]
+  href = "/BECED/"
+  title = "BECED"
+  description = "Bachelor of Early Childhood Education"
+  target = "_blank"
+  class = "border-warning bg-warning bg-opacity-10"
+  rel = ""
+
+# [[homepagelink]]
+#   href = "/BEED"
+#   title = "BSNED"
+#   description = "Bachelor of Early Elementary Education"
+#   target = "_blank"
+#   class = "border-success"
+#   rel = ""

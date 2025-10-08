@@ -1,0 +1,16 @@
+
+<section class="section section-md section-features">
+  <div class="container">
+    <div class="col-sm-4">
+        {{ range $index, $value := . }}
+          {{ partial "inline/link-card.html" $value}}
+        {{ end }}
+      </div>
+  </div>
+
+      <div class="col-sm-8">
+
+      </div>
+
+  </div>
+</section>
