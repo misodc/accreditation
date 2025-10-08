@@ -140,26 +140,26 @@ mainSections = ["docs"]
     product = [] # Product sections
 
 [[homepagelink]]
-  href = "/BEED/"
+  href = "/docs/BEED/certificate-of-program-compliance-copc/"
   title = "BEED"
   description = "Bachelor of Early Elementary Education"
-  target = "_blank"
+  target = ""
   class = "border-primary bg-primary bg-opacity-10"
   rel = ""
 
 [[homepagelink]]
-  href = "/BSED/"
+  href = "/docs/BSED/Math/certificate-of-program-compliance-copc/"
   title = "BSED"
   description = "Bachelor of Secondary Education"
-  target = "_blank"
+  target = ""
   class = "border-info bg-info bg-opacity-10"
   rel = ""
 
 [[homepagelink]]
-  href = "/BECED/"
+  href = "/docs/BECED/certificate-of-program-compliance-copc/"
   title = "BECED"
   description = "Bachelor of Early Childhood Education"
-  target = "_blank"
+  target = ""
   class = "border-warning bg-warning bg-opacity-10"
   rel = ""
 
