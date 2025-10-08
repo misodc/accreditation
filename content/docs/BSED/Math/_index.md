@@ -1,11 +1,11 @@
 ---
-title: "Resources"
-description: ""
+title: "Math"
+description: "Bachelor of Secondary Education"
 summary: ""
-date: 2024-02-27T09:30:56+01:00
-lastmod: 2024-02-27T09:30:56+01:00
+date: 2025-10-07T16:06:50+02:00
+lastmod: 2025-10-07T16:06:50+02:00
 draft: false
-weight: 999
+weight: 20001
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,5 +13,3 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
-Link to valuable, relevant resources.

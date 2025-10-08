@@ -1,6 +1,6 @@
 {{ $images := resources.Match "carousel/*"  }}
 {{ $ratio := (slice 10 3) }}
-<div id="{{ .Title }}carousel" class="carousel slide mb-5" data-bs-ride="carousel">
+<div id="{{ .Title }}carousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     {{ range $index, $value := $images }}
     <button type="button" data-bs-target="#{{ .Title }}carousel" data-bs-slide-to="{{ $index }}" {{ if eq
