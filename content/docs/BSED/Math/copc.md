@@ -1,7 +1,7 @@
 ---
 title: "Certificate of Program Compliance (COPC)"
-description: "BSED COPC"
-summary: "BSED COPC"
+description: "BSED - MATH COPC"
+summary: "BSED - MATH COPC"
 date: 2025-09-07T16:04:48+02:00
 lastmod: 2025-09-07T16:04:48+02:00
 draft: false
