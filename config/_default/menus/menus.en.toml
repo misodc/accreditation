@@ -16,15 +16,15 @@
 #   identifier = "lorem"
 #   url = "/tutorial/lorem/"
 
-[[main]]
-  name = "Accreditation"
-  url = "/docs/message-from-the-university-president/"
-  weight = 10
+# [[main]]
+#   name = "Accreditation"
+#   url = "/docs/message-from-the-university-president/"
+#   weight = 10
 
-[[main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 20
+# [[main]]
+#   name = "Blog"
+#   url = "/blog/"
+#   weight = 20
 
 [[social]]
   name = "Facebook"
@@ -39,7 +39,7 @@
 
 [[sidebar_docs]]
   name = "Message from the University President"
-  pageRef = "/docs/message-from-the-university-president/"
+  pageRef = "/docs/message-from-the-university-president"
   weight = 10
 
 [[sidebar_docs]]
